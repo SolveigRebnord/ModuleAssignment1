@@ -51,3 +51,4 @@ else {
 for (var i = 7; i <= 13; i++) {
     console.log ("The number is now " + i);
 }
+// Konsoll viser en telling fra tallet 7-13 
